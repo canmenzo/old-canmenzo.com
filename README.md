@@ -11,7 +11,7 @@ A static personal site in plain HTML, CSS and JavaScript, originally hosted on G
 ### ✨ What's in it
 - 🏠 `index.html`: landing page
 - 👤 `about.html`, `work.html`: about me and work experience
-- ✉️ `contact.html`: contact form (Formspree)
+- ✉️ `contact.html`: contact form (Formspree; the form ID is a `YOUR_FORM_ID` placeholder)
 - 🎆 Particle background on the inner pages ([particles.js](https://github.com/VincentGarreau/particles.js)), Font Awesome icons
 - 🔗 `projects.html` just redirects to my GitHub profile
 
